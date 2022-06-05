@@ -3,5 +3,5 @@ A statistical tool to conduct an a priori analysis of the precision and accuracy
 
 Filename | Description
 ---------| -----------
-rrs.s | R-code to run to estimate standard errors and bias
+rrs.R | R-code to run to estimate standard errors and bias
 rrs-6-4-2022.pdf | Documentation file
